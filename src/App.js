@@ -26,7 +26,7 @@ function Fruits({fruits}){
 
 const fruits = [
 	{ description: 'Good.', name: 'apple', emoji: '🍎', price: 0.5 },
-	{ description: 'So so.', name: 'orange', emoji: '🍊', price: 0.2 },
+	{ description: 'So so.', name: 'orange', emoji: '🍊', price: 0.2},
 	{ description: 'Okay.', name: 'grape', emoji: '🍇', price: 1.2 },
 	{ description: 'Excellent', name: 'pear', emoji: '🍐', price: 1.5 },
 ];
